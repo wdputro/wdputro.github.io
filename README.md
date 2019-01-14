@@ -1,2 +1,2 @@
 # wdputro.github.io
-wdputro notes
+wdputro notes | a personal blog
