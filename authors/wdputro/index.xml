@@ -17,10 +17,11 @@
       
       <guid>https://wdputro.github.io/portfolios/</guid>
       <description>These are some personal projects and research publications I have been working on.
-Projects Stage controller GUI Dashboard to connect and control multiple linear stages. Possible to add additional hardware such as oscilloscope and signal generator.
+Projects Stage controller   GUI Dashboard to connect and control multiple linear stages. Possible to add additional hardware such as oscilloscope and signal generator.
 I built it to create a GUI template for working with multiple hardwares in a measurement.
 Tools used:
- MATLAB GUIDE MATLAB Instrument Control Toolbox  Publications  Cherkashin, Maxim, Carsten Brenner, Widodo D. Putro, Benjamin Döpke, Nils C.</description>
+ MATLAB GUIDE MATLAB Instrument Control Toolbox  Github
+  Publications  Cherkashin, Maxim, Carsten Brenner, Widodo D.</description>
     </item>
     
     <item>
@@ -89,7 +90,7 @@ So I cooked the dinner, let my son eat first… and gently went to the bedroom 
       <pubDate>Thu, 17 Sep 2015 14:23:00 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2015-09-17-melawan-penjara-diri/</guid>
-      <description>Manusia memiliki musuh abadi, dirinya sendiri. Perlawanannya terasa ketika kita beranjak maju, maka ia akan menarik surut. Membisikkan kepercayaan semu bahwa usaha hanya membuahkan luka.
+      <description>-- Manusia memiliki musuh abadi, dirinya sendiri. Perlawanannya terasa ketika kita beranjak maju, maka ia akan menarik surut. Membisikkan kepercayaan semu bahwa usaha hanya membuahkan luka.
 Di negeri asing ini, musuh tersebut menjadi begitu jelas bagiku. Diam-diam, ia membuat penjara. Jerujinya tersusun dari pikiran-pikiran pesimisme pribadi. Atapnya terbuat dari cerita-cerita lirih karya gagal pengelana lalu.
 Maka sudah jelaslah misiku disini, meninggalkan penjara diriku. Menulis ulang pikiran menjadi impian. Merubah diam menjadi peluh.</description>
     </item>
@@ -100,7 +101,7 @@ Maka sudah jelaslah misiku disini, meninggalkan penjara diriku. Menulis ulang pi
       <pubDate>Fri, 12 Jun 2015 14:20:00 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2015-06-12-generation-y-legacy-a-parents-perspective/</guid>
-      <description>&lt;p&gt;There is a blog post about &lt;!-- raw HTML omitted --&gt;the ‘unhappy’ Generation Y&lt;!-- raw HTML omitted --&gt; that being viral in my Facebook timeline. Being part of that generation, I’d say it is relevant.&lt;/p&gt;
+      <description>&lt;p&gt;There is a blog post about &lt;a href=&#34;http://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html&#34; target=&#34;_blank&#34;&gt;the ‘unhappy’ Generation Y&lt;/a&gt; that being viral in my Facebook timeline. Being part of that generation, I’d say it is relevant.&lt;/p&gt;
 &lt;p&gt;It’s not surprising though that the author brings issue of parenting early in the articles. And the analysis is quite legit. Some might even think simply to blame the parents. After all, it was their fault right?&lt;/p&gt;
 &lt;p&gt;Bull.&lt;/p&gt;</description>
     </item>
@@ -189,9 +190,11 @@ Semua wajar-wajar saja. Data diri, riwayat pendidikan, hingga pengalaman kerja t
       <pubDate>Mon, 28 Oct 2013 19:30:17 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2013-10-28-salah-kerja-bukanlah-jawaban/</guid>
-      <description>“Wid, aku merasa tidak nyaman dengan pekerjaanku saat ini. Apa lebih baik aku mengundurkan diri saja ya?” Pertanyaan itu diajukan seorang kawan; dan seorang lagi, dan lagi. Izinkan saya berargumen, jangan mengambil keputusan berdasarkan pada emosi. Lagi pula, jarang sekali serta-merta resign begitu saja merupakan solusi terbaik.
+      <description>“Wid, aku merasa tidak nyaman dengan pekerjaanku saat ini. Apa lebih baik aku mengundurkan diri saja ya?”
+ Pertanyaan itu diajukan seorang kawan; dan seorang lagi, dan lagi. Izinkan saya berargumen, jangan mengambil keputusan berdasarkan pada emosi. Lagi pula, jarang sekali serta-merta resign begitu saja merupakan solusi terbaik.
 Ada 4 (empat) tips yang bisa kita pakai untuk menghadapi keadaan seperti ini.
-  Terima KeadaanHal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita menuju ke keadaan saat ini.</description>
+  Terima Keadaan
+Hal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita menuju ke keadaan saat ini.</description>
     </item>
     
     <item>
@@ -202,8 +205,9 @@ Ada 4 (empat) tips yang bisa kita pakai untuk menghadapi keadaan seperti ini.
       <guid>https://wdputro.github.io/blog/2013-07-05-dear-nina-bobo/</guid>
       <description>Dear Nina Bobo,
 Tidak terasa sudah 1 bulan 7 hari ya? Rasanya baru kemarin kamu menghiasi malamku menemani si kecil. Ya, si kecil Alta buah hatiku.
-Aku tahu, terkadang kamu cemburu karena Alta lebih sering mendengar lantunanAl-Qur’an dibanding dirimu, tapi ketika tiba saatnya ia tidur — oh dirimu begitu mengagumkan.
-Aku terus mengagumi perkembangan dan kesetiaanmu, bahkan ketika lagumu serta merta kami ubah. Apa daya sahabatku, lirikmu penuh dengan ancaman. Coba dengarkan…</description>
+Aku tahu, terkadang kamu cemburu karena Alta lebih sering mendengar lantunan
+Al-Qur’an dibanding dirimu, tapi ketika tiba saatnya ia tidur — oh dirimu begitu mengagumkan.
+Aku terus mengagumi perkembangan dan kesetiaanmu, bahkan ketika lagumu serta merta kami ubah. Apa daya sahabatku, lirikmu penuh dengan ancaman.</description>
     </item>
     
     <item>
@@ -236,7 +240,9 @@ Kawan diwisuda, sahabat mendapat promosi, rekan berbisnis cemerlang, kerabat men
       <pubDate>Wed, 27 Jun 2012 05:30:31 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2012-06-27-ceo-letter-grup-bakrie/</guid>
-      <description></description>
+      <description>Assalamu’alaikum wr. wb.
+Salam sejahtera untuk kita semua Kepada rekan-rekan karyawan Grup Bakrie,
+Saya tidak sabar untuk segera melaksanakan amanah menakjubkan menjabat sebagai CEO sebuah perusahaan terpandang anak negeri Indonesia, Grup Bakrie. Menjadi bagiannya adalah sebuah kehormatan dan kini saya ingin berbagi optimisme kepada anda akan masa depan gemilang Perusahaan ini. Grup Bakrie adalah potret sebuah korporasi yang berakar kokoh mulia. Prinsip ketegasan akan praktek bisnis etis terus dilakoni dan berharmoni dengan nilai sosial yang luas bermuara.</description>
     </item>
     
     <item>
@@ -246,7 +252,8 @@ Kawan diwisuda, sahabat mendapat promosi, rekan berbisnis cemerlang, kerabat men
       
       <guid>https://wdputro.github.io/blog/2012-03-08-two-questions-to-change-your-life-better/</guid>
       <description>Suddenly remembered a long-time watched movie, The Bucket List
-There is a scene hardly forgotten when Morgan Freeman telling a story about Ancient Egypt belief of God.It is said that when you die, God himself will ask you two question:
+There is a scene hardly forgotten when Morgan Freeman telling a story about Ancient Egypt belief of God.
+It is said that when you die, God himself will ask you two question:
  Do you find joy in your life? Had your life brought joys to others? and if you had, he would then ask another question   Let’s be honest to ourselves, and start to make a new end to our life 🙂</description>
     </item>
     
@@ -271,7 +278,7 @@ Sejarah makanan tersebut di Indonesia sama dengan kata salad di KBBI: tidak ada.
       
       <guid>https://wdputro.github.io/blog/2012-02-17-asing-baru-kaku-lain-nikmati-prosesnya/</guid>
       <description>-2 °C, angin laut semilir, dan penuh orang-orang dengan nama yang mengingatkan saya akan telenovela jaman SD dulu. Yak, itulah Valencia! Kota pelabuhan metropolitan dan tujuan wisata di timur Spanyol.
-10 hari yang lalu saya dan istri hijrah (pindahan) kesini, dan insya Allah selama 5 bulan ke depan akan menetap. Koper ukuran 40 kg, 30 kg, dan dua ukuran kabin menemani perjalanan. Oh ya, juga satu kardus Rice Cookerterbaru karena bukan orang Indonesia kalau tidak makan nasi he he.</description>
+ Plaza de Ajuntament de Valencia   -- Plaza de Ajuntament de Valencia -- 10 hari yang lalu saya dan istri hijrah (pindahan) kesini, dan insya Allah selama 5 bulan ke depan akan menetap. Koper ukuran 40 kg, 30 kg, dan dua ukuran kabin menemani perjalanan.</description>
     </item>
     
     <item>
