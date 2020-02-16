@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wdputro on wdputro notes</title>
@@ -17,12 +17,10 @@
       
       <guid>https://wdputro.github.io/portfolios/</guid>
       <description>These are some personal projects and research publications I have been working on.
-Projects Stage controller   GUI Dashboard to connect and control multiple linear stages. Possible to add additional hardware such as oscilloscope and signal generator.
+Projects Stage controller GUI Dashboard to connect and control multiple linear stages. Possible to add additional hardware such as oscilloscope and signal generator.
 I built it to create a GUI template for working with multiple hardwares in a measurement.
-Tools used: - MATLAB GUIDE - MATLAB Instrument Control Toolbox
-Github
-
-Publications  Cherkashin, Maxim, Carsten Brenner, Widodo D.</description>
+Tools used:
+ MATLAB GUIDE MATLAB Instrument Control Toolbox  Publications  Cherkashin, Maxim, Carsten Brenner, Widodo D. Putro, Benjamin Döpke, Nils C.</description>
     </item>
     
     <item>
@@ -42,9 +40,7 @@ Currently I am finishing my last semester in Laser and Photonics Engineering mas
       
       <guid>https://wdputro.github.io/blog/2017-03-04-ketika-semua-ribut/</guid>
       <description>&lt;p&gt;Anakku tersayang,&lt;/p&gt;
-
 &lt;p&gt;Akhir-akhir ini dunia sedang ribut. Arusnya membelit setiap orang yang tak berhati-hati, termasuk ayah. Wejangan ini ayah tuliskan, karena lima atau sepuluh tahun lagi, belitan itu akan semakin kuat. Dan ayah sangat berharap kamu bisa menghadapinya jauh lebih baik dari ayah saat ini.&lt;/p&gt;
-
 &lt;p&gt;Selalu ingatlah mantra-mantra ini:&lt;/p&gt;</description>
     </item>
     
@@ -54,7 +50,7 @@ Currently I am finishing my last semester in Laser and Photonics Engineering mas
       <pubDate>Sat, 09 Jul 2016 08:58:00 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2016-07-09-summing-3-years-of-fatherhood/</guid>
-      <description>&lt;p&gt;Time flies quickly and now he&amp;#8217;s turning 3. Since I don&amp;#8217;t want to miss memories during this period, allow me to sum these three years in some emotional stages and the circumstances at the time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Time flies quickly and now he’s turning 3. Since I don’t want to miss memories during this period, allow me to sum these three years in some emotional stages and the circumstances at the time.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -63,7 +59,7 @@ Currently I am finishing my last semester in Laser and Photonics Engineering mas
       <pubDate>Sat, 28 May 2016 13:33:15 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2016-05-28-mirror-the-forgotten-parenting-buddy/</guid>
-      <description>Dad: &amp;ldquo;Son, can you look who&amp;rsquo;s that?&amp;rdquo;Son: &amp;hellip;still cryng after his tantrum, he looked at the mirror. &amp;ldquo;He looks&amp;hellip; bad&amp;rdquo;Dad: &amp;ldquo;Well boy, that one there is angry!&amp;rdquo;Knowing yourself is hard. Heck, it&amp;#8217;s even harder for children. And as a parent, it is such a constant struggle. I hate myself when yelling to him.</description>
+      <description>Dad :  &amp;ldquo;Son, can you look who&amp;rsquo;s that?&amp;rdquo;   Son :  &amp;hellip;still cryng after his tantrum, he looked at the mirror. &amp;ldquo;He looks&amp;hellip; bad&amp;rdquo;   Dad :  &amp;ldquo;Well boy, that one there is angry!&amp;rdquo;    Knowing yourself is hard. Heck, it’s even harder for children. And as a parent, it is such a constant struggle. I hate myself when yelling to him.</description>
     </item>
     
     <item>
@@ -73,9 +69,7 @@ Currently I am finishing my last semester in Laser and Photonics Engineering mas
       
       <guid>https://wdputro.github.io/blog/2016-05-22-gak-lucu/</guid>
       <description>&lt;p&gt;Kultur itu asem. Digubris dia mengekor, diabaikan dia mengaum.&lt;/p&gt;
-
-&lt;p&gt;Namun, suka tak suka kita butuh&amp;#8230; dan cara membawa diri di tengah kultur yang berbeda-beda adalah ketrampilan hidup dasar yang mampu menentukan anda sukses atau tidak.&lt;/p&gt;
-
+&lt;p&gt;Namun, suka tak suka kita butuh… dan cara membawa diri di tengah kultur yang berbeda-beda adalah ketrampilan hidup dasar yang mampu menentukan anda sukses atau tidak.&lt;/p&gt;
 &lt;p&gt;Singkat kata, akan ada kalanya kita akan tertampar oleh perbedaan kultur. Tulisan ini adalah cerita saya ketika menampar balik perbedaan itu—dengan cinta tentunya ♡&lt;/p&gt;</description>
     </item>
     
@@ -85,8 +79,8 @@ Currently I am finishing my last semester in Laser and Photonics Engineering mas
       <pubDate>Tue, 02 Feb 2016 14:01:57 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2016-02-02-in-short-a-husband/</guid>
-      <description>I came home a little late that day. My son was playing by himself while my wife slept. &amp;#8220;She must be tired since she has to run two experiments earlier that day,&amp;#8221; I thought to myself. This semester she needs to finish her master thesis.
-So I cooked the dinner, let my son eat first&amp;#8230; and gently went to the bedroom to wake her up. She was half awake already&amp;#8230; and I knew something upset her.</description>
+      <description>I came home a little late that day. My son was playing by himself while my wife slept. “She must be tired since she has to run two experiments earlier that day,” I thought to myself. This semester she needs to finish her master thesis.
+So I cooked the dinner, let my son eat first… and gently went to the bedroom to wake her up. She was half awake already… and I knew something upset her.</description>
     </item>
     
     <item>
@@ -95,7 +89,7 @@ So I cooked the dinner, let my son eat first&amp;#8230; and gently went to the 
       <pubDate>Thu, 17 Sep 2015 14:23:00 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2015-09-17-melawan-penjara-diri/</guid>
-      <description>-- Manusia memiliki musuh abadi, dirinya sendiri. Perlawanannya terasa ketika kita beranjak maju, maka ia akan menarik surut. Membisikkan kepercayaan semu bahwa usaha hanya membuahkan luka.
+      <description>Manusia memiliki musuh abadi, dirinya sendiri. Perlawanannya terasa ketika kita beranjak maju, maka ia akan menarik surut. Membisikkan kepercayaan semu bahwa usaha hanya membuahkan luka.
 Di negeri asing ini, musuh tersebut menjadi begitu jelas bagiku. Diam-diam, ia membuat penjara. Jerujinya tersusun dari pikiran-pikiran pesimisme pribadi. Atapnya terbuat dari cerita-cerita lirih karya gagal pengelana lalu.
 Maka sudah jelaslah misiku disini, meninggalkan penjara diriku. Menulis ulang pikiran menjadi impian. Merubah diam menjadi peluh.</description>
     </item>
@@ -106,10 +100,8 @@ Maka sudah jelaslah misiku disini, meninggalkan penjara diriku. Menulis ulang pi
       <pubDate>Fri, 12 Jun 2015 14:20:00 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2015-06-12-generation-y-legacy-a-parents-perspective/</guid>
-      <description>&lt;p&gt;There is a blog post about &lt;a href=&#34;http://waitbutwhy.com/2013/09/why-generation-y-yuppies-are-unhappy.html&#34; target=&#34;_blank&#34;&gt;the &amp;#8216;unhappy&amp;#8217; Generation Y&lt;/a&gt; that being viral in my Facebook timeline. Being part of that generation, I&amp;#8217;d say it is relevant.&lt;/p&gt;
-
-&lt;p&gt;It&amp;#8217;s not surprising though that the author brings issue of parenting early in the articles. And the analysis is quite legit. Some might even think simply to blame the parents. After all, it was their fault right?&lt;/p&gt;
-
+      <description>&lt;p&gt;There is a blog post about &lt;!-- raw HTML omitted --&gt;the ‘unhappy’ Generation Y&lt;!-- raw HTML omitted --&gt; that being viral in my Facebook timeline. Being part of that generation, I’d say it is relevant.&lt;/p&gt;
+&lt;p&gt;It’s not surprising though that the author brings issue of parenting early in the articles. And the analysis is quite legit. Some might even think simply to blame the parents. After all, it was their fault right?&lt;/p&gt;
 &lt;p&gt;Bull.&lt;/p&gt;</description>
     </item>
     
@@ -155,7 +147,7 @@ Biang masalah: diri sendiri Berkeluarga dan bekerja adalah fitrah. Peradaban l
       
       <guid>https://wdputro.github.io/blog/2014-08-05-anak-diorama-ayah-bunda/</guid>
       <description>Cempedak diluar pagar, tarik galah tolong jolokkan. Saya budak baru belajar, kalau salah tolong tunjukkan.
- Satu hal yang membuat saya takjub, sekaligus khawatir, adalah betapa anak begitu fasih memproyeksikan karakter dan tingkah laku orang tuanya. Ibarat Diorama, miniatur yang menggambarkan keadaan sesungguhnya dari sebuah landskap, anakmu adalah dirimu&amp;#8230; Dan jika kita tidak hati-hati, alih-alih menjadi versi terbaikmu, dia akan menjadi sebaliknya.
+ Satu hal yang membuat saya takjub, sekaligus khawatir, adalah betapa anak begitu fasih memproyeksikan karakter dan tingkah laku orang tuanya. Ibarat Diorama, miniatur yang menggambarkan keadaan sesungguhnya dari sebuah landskap, anakmu adalah dirimu… Dan jika kita tidak hati-hati, alih-alih menjadi versi terbaikmu, dia akan menjadi sebaliknya.
 Terlihat jelas Alta mewarisi sifat pembelajar dan berkemauan keras dari bundanya, belum mau berhenti sebelum bisa; bahkan marah kalau dilarang.</description>
     </item>
     
@@ -186,7 +178,7 @@ Kamis dini hari lalu dalam perjalanan pulang dari bandara saya mengalami Travell
       <pubDate>Thu, 21 Nov 2013 17:15:14 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2013-11-21-cerita-dan-cita-di-balik-hobi/</guid>
-      <description>&amp;#8220;What we do during our working hours determines what we have; what we do in our leisure hours determines what we are. &amp;ndash;George Eastman
+      <description>“What we do during our working hours determines what we have; what we do in our leisure hours determines what we are. &amp;ndash;George Eastman
  Minggu-minggu ini saya banyak memeriksa surat lamaran kerja. Memang, saya baru memasang iklan lowongan di beberapa pilihan kanal&amp;ndash;digital maupun cetak.
 Semua wajar-wajar saja. Data diri, riwayat pendidikan, hingga pengalaman kerja tersedia. Hanya satu hal yang menarik, tidak semua mencantumkan kegemaran atau hobi. Dan ini cukup menggelitik.</description>
     </item>
@@ -197,11 +189,9 @@ Semua wajar-wajar saja. Data diri, riwayat pendidikan, hingga pengalaman kerja t
       <pubDate>Mon, 28 Oct 2013 19:30:17 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2013-10-28-salah-kerja-bukanlah-jawaban/</guid>
-      <description>“Wid, aku merasa tidak nyaman dengan pekerjaanku saat ini. Apa lebih baik aku mengundurkan diri saja ya?”
- Pertanyaan itu diajukan seorang kawan; dan seorang lagi, dan lagi. Izinkan saya berargumen, jangan mengambil keputusan berdasarkan pada emosi. Lagi pula, jarang sekali serta-merta resign begitu saja merupakan solusi terbaik.
+      <description>“Wid, aku merasa tidak nyaman dengan pekerjaanku saat ini. Apa lebih baik aku mengundurkan diri saja ya?” Pertanyaan itu diajukan seorang kawan; dan seorang lagi, dan lagi. Izinkan saya berargumen, jangan mengambil keputusan berdasarkan pada emosi. Lagi pula, jarang sekali serta-merta resign begitu saja merupakan solusi terbaik.
 Ada 4 (empat) tips yang bisa kita pakai untuk menghadapi keadaan seperti ini.
- Terima Keadaan
-Hal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita menuju ke keadaan saat ini.</description>
+  Terima KeadaanHal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita menuju ke keadaan saat ini.</description>
     </item>
     
     <item>
@@ -212,9 +202,8 @@ Hal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita men
       <guid>https://wdputro.github.io/blog/2013-07-05-dear-nina-bobo/</guid>
       <description>Dear Nina Bobo,
 Tidak terasa sudah 1 bulan 7 hari ya? Rasanya baru kemarin kamu menghiasi malamku menemani si kecil. Ya, si kecil Alta buah hatiku.
-Aku tahu, terkadang kamu cemburu karena Alta lebih sering mendengar lantunan
-Al-Qur&amp;#8217;an dibanding dirimu, tapi ketika tiba saatnya ia tidur &amp;#8212; oh dirimu begitu mengagumkan.
-Aku terus mengagumi perkembangan dan kesetiaanmu, bahkan ketika lagumu serta merta kami ubah. Apa daya sahabatku, lirikmu penuh dengan ancaman.</description>
+Aku tahu, terkadang kamu cemburu karena Alta lebih sering mendengar lantunanAl-Qur’an dibanding dirimu, tapi ketika tiba saatnya ia tidur — oh dirimu begitu mengagumkan.
+Aku terus mengagumi perkembangan dan kesetiaanmu, bahkan ketika lagumu serta merta kami ubah. Apa daya sahabatku, lirikmu penuh dengan ancaman. Coba dengarkan…</description>
     </item>
     
     <item>
@@ -247,9 +236,7 @@ Kawan diwisuda, sahabat mendapat promosi, rekan berbisnis cemerlang, kerabat men
       <pubDate>Wed, 27 Jun 2012 05:30:31 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2012-06-27-ceo-letter-grup-bakrie/</guid>
-      <description>Assalamu’alaikum wr. wb.
-Salam sejahtera untuk kita semua Kepada rekan-rekan karyawan Grup Bakrie,
-Saya tidak sabar untuk segera melaksanakan amanah menakjubkan menjabat sebagai CEO sebuah perusahaan terpandang anak negeri Indonesia, Grup Bakrie. Menjadi bagiannya adalah sebuah kehormatan dan kini saya ingin berbagi optimisme kepada anda akan masa depan gemilang Perusahaan ini. Grup Bakrie adalah potret sebuah korporasi yang berakar kokoh mulia. Prinsip ketegasan akan praktek bisnis etis terus dilakoni dan berharmoni dengan nilai sosial yang luas bermuara.</description>
+      <description></description>
     </item>
     
     <item>
@@ -259,9 +246,8 @@ Saya tidak sabar untuk segera melaksanakan amanah menakjubkan menjabat sebagai C
       
       <guid>https://wdputro.github.io/blog/2012-03-08-two-questions-to-change-your-life-better/</guid>
       <description>Suddenly remembered a long-time watched movie, The Bucket List
-There is a scene hardly forgotten when Morgan Freeman telling a story about Ancient Egypt belief of God.
-It is said that when you die, God himself will ask you two question:
- Do you find joy in your life? Had your life brought joys to others? and if you had, he would then ask another question   Let&amp;#8217;s be honest to ourselves, and start to make a new end to our life 🙂</description>
+There is a scene hardly forgotten when Morgan Freeman telling a story about Ancient Egypt belief of God.It is said that when you die, God himself will ask you two question:
+ Do you find joy in your life? Had your life brought joys to others? and if you had, he would then ask another question   Let’s be honest to ourselves, and start to make a new end to our life 🙂</description>
     </item>
     
     <item>
@@ -270,7 +256,7 @@ It is said that when you die, God himself will ask you two question:
       <pubDate>Fri, 24 Feb 2012 14:10:10 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2012-02-24-ambil-bayam-dari-muka-bumi-jadilah-salad/</guid>
-      <description>&amp;#8220;You are what you eat&amp;#8221;
+      <description>“You are what you eat”
  Demam barang impor..
 Begitu bangga dengan merek luar negeri. Membeli demi sekedar gengsi. Sayangnya, tidak berbeda dalam hal makanan.
 Pernah memiliki teman yang tidak bisa tidak memamerkan makanan asing yang dibelikan orang tuanya saat sekolah dulu? Padahal cuma pasta.
@@ -285,7 +271,7 @@ Sejarah makanan tersebut di Indonesia sama dengan kata salad di KBBI: tidak ada.
       
       <guid>https://wdputro.github.io/blog/2012-02-17-asing-baru-kaku-lain-nikmati-prosesnya/</guid>
       <description>-2 °C, angin laut semilir, dan penuh orang-orang dengan nama yang mengingatkan saya akan telenovela jaman SD dulu. Yak, itulah Valencia! Kota pelabuhan metropolitan dan tujuan wisata di timur Spanyol.
- Plaza de Ajuntament de Valencia   -- Plaza de Ajuntament de Valencia -- 10 hari yang lalu saya dan istri hijrah (pindahan) kesini, dan insya Allah selama 5 bulan ke depan akan menetap. Koper ukuran 40 kg, 30 kg, dan dua ukuran kabin menemani perjalanan.</description>
+10 hari yang lalu saya dan istri hijrah (pindahan) kesini, dan insya Allah selama 5 bulan ke depan akan menetap. Koper ukuran 40 kg, 30 kg, dan dua ukuran kabin menemani perjalanan. Oh ya, juga satu kardus Rice Cookerterbaru karena bukan orang Indonesia kalau tidak makan nasi he he.</description>
     </item>
     
     <item>
@@ -295,7 +281,7 @@ Sejarah makanan tersebut di Indonesia sama dengan kata salad di KBBI: tidak ada.
       
       <guid>https://wdputro.github.io/blog/2011-04-22-easter-jam/</guid>
       <description>Jakarta April 21, 2011; 09.58 p.m
-Hi there, tomorrow is Easter Day and although I&amp;#8217;m not celebrating it, I can feel the cheerful atmosphere here at Jakarta. My friends dress fabulous to go to church. Everyone smiles.
+Hi there, tomorrow is Easter Day and although I’m not celebrating it, I can feel the cheerful atmosphere here at Jakarta. My friends dress fabulous to go to church. Everyone smiles.
 Trust me; with maximum level of innocence face, I have to say that this night should be a happy ending.
 It turns out to be wrong!
 Simple, add three straight holidays at the weekend with the secret recipe: hundreds, probably thousands, of impatience motor and car drivers trying to rush every time the policeman look at the other side of the street; and what do you get?</description>

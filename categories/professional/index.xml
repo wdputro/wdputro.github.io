@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Professional on wdputro notes</title>
@@ -17,12 +17,10 @@
       
       <guid>https://wdputro.github.io/portfolios/</guid>
       <description>These are some personal projects and research publications I have been working on.
-Projects Stage controller   GUI Dashboard to connect and control multiple linear stages. Possible to add additional hardware such as oscilloscope and signal generator.
+Projects Stage controller GUI Dashboard to connect and control multiple linear stages. Possible to add additional hardware such as oscilloscope and signal generator.
 I built it to create a GUI template for working with multiple hardwares in a measurement.
-Tools used: - MATLAB GUIDE - MATLAB Instrument Control Toolbox
-Github
-
-Publications  Cherkashin, Maxim, Carsten Brenner, Widodo D.</description>
+Tools used:
+ MATLAB GUIDE MATLAB Instrument Control Toolbox  Publications  Cherkashin, Maxim, Carsten Brenner, Widodo D. Putro, Benjamin Döpke, Nils C.</description>
     </item>
     
     <item>
@@ -41,11 +39,9 @@ Currently I am finishing my last semester in Laser and Photonics Engineering mas
       <pubDate>Mon, 28 Oct 2013 19:30:17 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2013-10-28-salah-kerja-bukanlah-jawaban/</guid>
-      <description>“Wid, aku merasa tidak nyaman dengan pekerjaanku saat ini. Apa lebih baik aku mengundurkan diri saja ya?”
- Pertanyaan itu diajukan seorang kawan; dan seorang lagi, dan lagi. Izinkan saya berargumen, jangan mengambil keputusan berdasarkan pada emosi. Lagi pula, jarang sekali serta-merta resign begitu saja merupakan solusi terbaik.
+      <description>“Wid, aku merasa tidak nyaman dengan pekerjaanku saat ini. Apa lebih baik aku mengundurkan diri saja ya?” Pertanyaan itu diajukan seorang kawan; dan seorang lagi, dan lagi. Izinkan saya berargumen, jangan mengambil keputusan berdasarkan pada emosi. Lagi pula, jarang sekali serta-merta resign begitu saja merupakan solusi terbaik.
 Ada 4 (empat) tips yang bisa kita pakai untuk menghadapi keadaan seperti ini.
- Terima Keadaan
-Hal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita menuju ke keadaan saat ini.</description>
+  Terima KeadaanHal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita menuju ke keadaan saat ini.</description>
     </item>
     
     <item>
@@ -54,9 +50,7 @@ Hal pertama yang harus dilakukan adalah tarik napas dalam dan bawa diri kita men
       <pubDate>Wed, 27 Jun 2012 05:30:31 +0000</pubDate>
       
       <guid>https://wdputro.github.io/blog/2012-06-27-ceo-letter-grup-bakrie/</guid>
-      <description>Assalamu’alaikum wr. wb.
-Salam sejahtera untuk kita semua Kepada rekan-rekan karyawan Grup Bakrie,
-Saya tidak sabar untuk segera melaksanakan amanah menakjubkan menjabat sebagai CEO sebuah perusahaan terpandang anak negeri Indonesia, Grup Bakrie. Menjadi bagiannya adalah sebuah kehormatan dan kini saya ingin berbagi optimisme kepada anda akan masa depan gemilang Perusahaan ini. Grup Bakrie adalah potret sebuah korporasi yang berakar kokoh mulia. Prinsip ketegasan akan praktek bisnis etis terus dilakoni dan berharmoni dengan nilai sosial yang luas bermuara.</description>
+      <description></description>
     </item>
     
     <item>
@@ -66,7 +60,7 @@ Saya tidak sabar untuk segera melaksanakan amanah menakjubkan menjabat sebagai C
       
       <guid>https://wdputro.github.io/blog/2011-04-22-easter-jam/</guid>
       <description>Jakarta April 21, 2011; 09.58 p.m
-Hi there, tomorrow is Easter Day and although I&amp;#8217;m not celebrating it, I can feel the cheerful atmosphere here at Jakarta. My friends dress fabulous to go to church. Everyone smiles.
+Hi there, tomorrow is Easter Day and although I’m not celebrating it, I can feel the cheerful atmosphere here at Jakarta. My friends dress fabulous to go to church. Everyone smiles.
 Trust me; with maximum level of innocence face, I have to say that this night should be a happy ending.
 It turns out to be wrong!
 Simple, add three straight holidays at the weekend with the secret recipe: hundreds, probably thousands, of impatience motor and car drivers trying to rush every time the policeman look at the other side of the street; and what do you get?</description>
